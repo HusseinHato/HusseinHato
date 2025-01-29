@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HusseinHato
-- 👀 I’m interested in Programming and Drawing
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Software Development, Machine Learning and Game Development
+- 🌱 I’m currently learning Python
 - 📫 How to reach me riantonaruto@gmail.com
